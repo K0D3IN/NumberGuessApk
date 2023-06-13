@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">SAYI TAHMIN</string>
+    <string name="title_activity_main2" translatable="false">MainActivity2</string>
+    <string name="answer">YOUR ANSWER WILL SHOWN HERE</string>
+    <string name="tahmin">Enter Your Guess</string>
+    <string name="tahminbtn">Guess</string>
+    <string name="EBG">Enter Bigger Number</string>
+    <string name="gulmek" translatable="false">HAHAHAHAHAH </string>
+    <string name="ESN">Enter Smaller Number</string>
+    <string name="cong">Congrulations! Your Guess is Right!</string>
+    <string name="EVN">Please Enter Only Number</string>
+    <string name="reset">Reset Number</string>
+</resources>
