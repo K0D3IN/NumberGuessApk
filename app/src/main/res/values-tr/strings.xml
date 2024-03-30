@@ -5,7 +5,7 @@
     <string name="tahminbtn">Tahmin</string>
     <string name="EBG">Daha Büyük Bir Sayı Girin</string>
     <string name="ESN">Daha Küçük Bir Sayı Girin</string>
-    <string name="cong">Tebrikler Doğru Cevpa!</string>
+    <string name="cong">Tebrikler Doğru Cevap!</string>
     <string name="EVN">Lütfen sadece geçerli sayılar girin (1-100)</string>
     <string name="reset">Sayıyı Sıfırla</string>
 </resources>
