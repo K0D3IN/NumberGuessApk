@@ -1,6 +1,7 @@
 # Number Guessing Game
 
 This is a simple Number Guessing Game implemented in Kotlin for Android.
+Developed for my  9th class project
 
 ## Description
 
